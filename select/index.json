@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "キャンパス",
+  "base_artist": "Rabbit horn's",
+  "createdAt": "2026-02-26T05:40:08.282470Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キャンパス・ガール",
+      "artist": "Hiromi Iwasaki",
+      "has_synced": false,
+      "path": "select/01_キャンパス・ガール_Hiromi_Iwasaki.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キャンパス・ガール",
+      "artist": "岩崎宏美",
+      "has_synced": false,
+      "path": "select/02_キャンパス・ガール_岩崎宏美.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キャンパス",
+      "artist": "Rabbit horn's",
+      "has_synced": false,
+      "path": "select/pl_01_キャンパス_Rabbit_horn's.txt"
+    }
+  ]
+}
